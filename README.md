@@ -1,4 +1,4 @@
-###**A CRM Application to Handle the Clients and their property Related Requirements**
+#A CRM Application to Handle the Clients and their property Related Requirements
 
 ### **Introduction**  
 The *Dreams World Properties* CRM application is a comprehensive solution designed to streamline customer relationship management and property operations for real estate businesses. Built on the Salesforce platform, the application leverages automation, dynamic interfaces, and secure data management to enhance customer experience and operational efficiency. By integrating Jotform, Lightning Web Components (LWC), and approval workflows, the application delivers personalized property recommendations and automates processes such as customer onboarding and property verification.
@@ -53,8 +53,4 @@ The *Dreams World Properties* CRM application is a comprehensive solution design
    - Apex  
 
 8. **Data Import:**  
-   - Salesforce data import tools for customer and property data from spreadsheets.  
-
----
-
-Let me know if you'd like to integrate this directly into the documentation or if there's anything else you'd like to add!
+   - Salesforce data import tools for customer and property data from spreadsheets. 
